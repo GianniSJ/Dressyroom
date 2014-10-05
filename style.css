@@ -1,0 +1,15 @@
+body{
+	
+}
+
+
+
+#wrapper{
+	background-image: url("image/dressy.jpg");
+	height: 850px;
+	text-align: center;
+	padding-top: 250px;
+	color: white;
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.9);
+	background-attachment:fixed;
+	}
