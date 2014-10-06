@@ -30,3 +30,45 @@ body{
 	background-color: white;
 	color: black;
 }
+
+
+.spacer{
+	height: 10em;
+}
+
+
+hr.small {
+    max-width: 150px;
+}
+
+#concept{
+	text-align: center;
+}
+
+
+#concept h2{
+	font-weight: 300;
+
+}
+
+#concept h1{
+	font-size: 30px;
+	font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
