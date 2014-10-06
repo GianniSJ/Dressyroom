@@ -71,18 +71,33 @@ hr.small {
 #commentcamarche p{
 	padding-top: 25px;
 	padding-bottom: 30px;
-	font-weight: 700;
+	font-weight: 300;
+	font-size: 25px;
 }
 
 #explain{
-	padding-top: 5em;
+	
+	background-color: #ff3f5f;
+	color: white;
+	text-align: center;
+	padding-top: 0px;
 }
 
-#explain h1{
-	font-weight: 700;
-	font-size: 25px;
+#explain h2{
+	font-weight: 300;
 	padding-bottom: 2em;
-	color: #ff3f5f;
+	color: white;
+	padding-top: 2em;
+}
+
+#explain p{
+	padding-top: 1em;
+	padding-bottom: 2em;
+	font-weight: 300;
+	font-size: 15px;
+}
+
+
 
 
 .slogan
@@ -91,8 +106,8 @@ hr.small {
 }
 
 
-.slogan
-{
-	color: #ff3f5f;
-}
+
+
+
+
 
