@@ -56,19 +56,43 @@ hr.small {
 	font-weight: 400;
 }
 
+#commentcamarche{
+	text-align: center;
+	background-image: url("image/grid.jpg");
+}
+
+#commentcamarche h2{
+	font-weight: 300;
+	text-align: center;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+#commentcamarche p{
+	padding-top: 25px;
+	padding-bottom: 30px;
+	font-weight: 700;
+}
+
+#explain{
+	padding-top: 5em;
+}
+
+#explain h1{
+	font-weight: 700;
+	font-size: 25px;
+	padding-bottom: 2em;
+	color: #ff3f5f;
 
 
+.slogan
+{
+	color: #ff3f5f;
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
+.slogan
+{
+	color: #ff3f5f;
+}
 
