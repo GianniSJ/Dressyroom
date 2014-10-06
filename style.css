@@ -14,7 +14,6 @@ body{
 	background-attachment:fixed;
 	}
 
-#form{
-	text-align: center;
-	
+.navbar-default{
+	background-color: white;
 }
