@@ -19,6 +19,8 @@ body{
 		font-weight: 700;
 		font-size: 40px;
 		letter-spacing: 3px;
+		padding-bottom: 2em;
+		padding-top: 1em;
 	}
 
 	#wrapper h2{
@@ -81,6 +83,7 @@ hr.small {
 	color: white;
 	text-align: center;
 	padding-top: 0px;
+	padding-bottom: 3em;
 }
 
 #explain h2{
