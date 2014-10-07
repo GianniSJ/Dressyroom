@@ -110,6 +110,10 @@ hr.small {
 	color: #333333;
 }
 
+#commentcamarche a:hover {
+	color: red;
+	font-weight: #ff3f5f; 
+}
 
 
 #footer{
@@ -133,8 +137,8 @@ hr.small {
 	margin-right: 1em;
 }
 
-#footer a:hover{
-	color: black;
+#footer i:hover {
+	color: 	#595354;
 }
 
 #footer p{
